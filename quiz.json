@@ -1,0 +1,54 @@
+{
+    "data": [
+  {
+      "question": "What is the Capital of Pakistan?",
+       "choices": ["Karachi", "Islamabad" , "Lahore", "Rawalpindi"],
+       "answer": "Islamabad"
+  },
+  {
+      "question": "Who has taken most wickets for Pakistan in Tests?",
+       "choices": ["W.Akram", "W.Younis" , "Sarfraz Nawaz", "Imran Khan"],
+       "answer": "W.Akram"
+  },
+  {
+    "question": "Who designed Pakistan's Flag?",
+     "choices": ["S.A Kedwaii", "Liaquat Ali Khan" , "Z.A Khan", "Jinnah"],
+     "answer": "S.A Kedwaii"
+},
+{
+    "question": "What is the highest individual score in Test Cricket By A Pakistani Player?",
+     "choices": ["301*", "300*" , "316", "337"],
+     "answer": "337"
+},
+{
+    "question": "Who scored the highest score in the tests?",
+     "choices": ["Javed Miandad", "Younis Khan" , "Mudassir Nazar", "Hanif Mohammed"],
+     "answer": "Hanif Mohammed"
+},
+{
+    "question": "Who is only Pakistani player to score centuries in all formats?",
+     "choices": ["Mohammed Rizwan", "Fakhar Zaman" , "Ahmed Shehzad", "Babar Azam"],
+     "answer": "Babar Azam"
+},
+{
+    "question": "Who is the longest serving Pakistani President?",
+     "choices": ["Ayub Khan", "Nawaz Sharif" , "Zulfiqar Ali Bhuttho", "Yahya Khan"],
+     "answer": "Ayub Khan"
+},
+{
+    "question": "Who is Pakistan's seventh president?",
+     "choices": ["Ghulam Ishaq Khan", "Wasim Sajjad" , "M.K Junejo", "Farooq Leghari"],
+     "answer": "Ghulam Ishaq Khan"
+},
+{
+    "question": "Imran Khan recorded his best figures as a captain in Karachi,1982 what were his figures?",
+     "choices": ["8-100", "8-23" , "8-60", "8-56"],
+     "answer": "8-60"
+},
+{
+    "question": "Pakistan launched their first nuclear weapon in 1998, what was it called?",
+     "choices": ["Ghauri", "Shaheen" , "Ghaznavi", "Chagai"],
+     "answer": "Chagai"
+}      
+    ]
+}

@@ -1,0 +1,57 @@
+html,
+body,
+#root {
+  height: 100%;
+  background: url(../public/PAK.jpg);
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+}
+
+.App .card {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+  background-color: #52b788;
+}
+
+label.radio{
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 28px;
+}
+
+label .radio+.radio{
+  margin-left: 0;
+}
+
+label.radio input{
+  margin-right: 10px;
+}
+
+.NEXT{
+  background-color: #fb8500;
+  border: none;
+  width: 100px;
+  height: 50px;
+}
+
+.radio{
+  background-color: #06d6a0;
+
+}
+
+.BUTTON-1{
+  background-color: #06d6a0;
+  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Mochiy Pop P One', sans-serif;;
+  border: none;
+  height: 50px;
+  width: 80px;
+}
